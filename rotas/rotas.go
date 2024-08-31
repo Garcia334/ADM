@@ -1,0 +1,5 @@
+package rotas
+
+func CarregarRotas() {
+
+}
